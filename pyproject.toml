@@ -9,4 +9,6 @@ dependencies = [
     "jupyterlab>=4.4.6",
     "jupyterlab-rise>=0.43.1",
     "jupyterlab-vim>=4.1.4",
+    "matplotlib>=3.10.6",
+    "pandas>=2.3.2",
 ]
