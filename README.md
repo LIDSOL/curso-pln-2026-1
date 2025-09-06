@@ -24,8 +24,7 @@ Las sesiones serán divididas en dos partes; la primer parte consistirá en una
 revisión teoríca (breve), y la segunda parte, consistirá en poner en práctica los
 conceptos teóricos. Utilizaremos [*jupyter notebooks*](https://jupyter.org/) que es
 un entorno de computación interactiva de código. Al final de cada
-sesión se dejará un ejercicio práctico que deberá extender o mejorar
-la práctica vista
+sesión se dejará un ejercicio práctico opcional para profundizar en lo visto en clase.
 
 ### Fechas, horarios, lugar
 
@@ -33,7 +32,7 @@ la práctica vista
 - Inicio: 2-Sep-2025
 - Final: 5-sep-2025
 - Horario: 15:00-17:00
-- Lugar: [LIDSoL](https://lidsol.unam.mx/#contact)
+- Lugar: [Edificio M, Anexo de la Facultad de Ingeniería (Conjunto Sur)](https://www.ssa.ingenieria.unam.mx/rsc/salones/Croquis_FI.pdf)
 
 ## Instructor
 
@@ -54,8 +53,8 @@ la práctica vista
 - Estar familiarizadæ con `python`
     - Tener instalada una versión reciente de `python` (`>=3.11`)
     - Instalado y corriendo un entorno local con [jupyter lab](https://jupyter.org/install)
+    - Opcionalmente una cuenta de Google para usar [Colab](https://colab.research.google.com/)
     - Estar familiarizado con instalación de paquetes de `python`
-- Nociones de Calculo, Algebra Líneal y Probabilidad
 - Fundamentos de *Machine Learning* (Opcional)
 
 ## Temario
@@ -79,23 +78,21 @@ la práctica vista
 - Propiedades estadísticas del lenguaje natural
 - Representaciones vectoriales, enfoques clásicos
 - Modelos del lenguaje estadísticos
-- Técnicas de pre-procesamiento y normalización de textos: *subword tokenization*
 
-### 3. Procesamiento del lenguaje natural: Un enfoque moderno (neuronal)
+### 3. Preprocesamiento de corpus y tokenización
 
-- Word embeddings
-- Modelos del lenguaje neuronales
-- Arquitectura encoder-decoder
-- Mecanismos de atención
-- Transformers
+- Técnicas de pre-procesamiento
+- Normalización de textos
+- Tokenizadores y *subword tokenization*
+    - BPE
+- Bibliotecas para lenguas de bajos recursos digitales
 
 ### 4. En la frontera del *NLP*
 
-- Transfer learning y fine-tuning
-- Retrieval-augmented generation (RAG)
 - LLMs locales con `ollama`
+- Retrieval-augmented generation (RAG)
 
 ## Bibliografía
 
 - Dan Jurafsky y James H. Martin. [Speech and Language Processing (2025 pre-release)](https://web.stanford.edu/~jurafsky/slp3/)
-- Víctor Mijangos. [Fundamentos de Lingüística computacional (2025 pre-release)](TODO)
+- Víctor Mijangos. [Fundamentos de Lingüística computacional (2025 pre-release)](https://cloud.lidsol.unam.mx/s/gog6oX7E755qXwr)
